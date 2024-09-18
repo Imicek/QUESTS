@@ -1,273 +1,665 @@
-Name: "Hire A Travel Agent"
-Description: "Play 15 cards from the Traveling Travel Agency Mini-Set."
-XP Amount: "400"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: "Catch Your Zeppelin"
-Description: "Play 30 Rush OR Windfury minions in Ranked Hearthstone."
-XP Amount: "800"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: "Chill Out in Paradise"
-Description: "Freeze 10 minions in Ranked Hearthstone."
-XP Amount: "1200"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play OR Destroy 10 Reborn minions in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play OR Destroy 10 Taunt minions in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play OR Destroy 10 Deathrattle minions in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Cast 10 Arcane OR Nature Spells in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Cast 10 Fire OR Frost Spells in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Cast 10 Holy OR Shadow Spells in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Death Knight OR Mage cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Death Knight OR Shaman cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Death Knight OR Warlock cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Demon Hunter OR Priest cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Demon Hunter OR Shaman cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Druid OR Mage cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Druid OR Warrior cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Hunter OR Priest cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Hunter OR Shaman cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Hunter OR Warrior cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Mage OR Paladin cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Paladin OR Rogue cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 Rogue OR Warlock cards in Hearthstone."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 30 minions."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Cast 25 spells."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "A Travelmaster's Guide to Adventure!"
-Reward Track Type: "Event"
-
-Name: "The Tavern's Open! (Part 1)"
-Description: "Play 1 games."
-XP Amount: "0"
-Quest Pool Type: "Unknown"
-Event Name: "-1"
-Reward Track Type: "None"
-
-Name: "The Tavern's Open! (Part 2)"
-Description: "Play 2 games."
-XP Amount: "0"
-Quest Pool Type: "Unknown"
-Event Name: "-1"
-Reward Track Type: "None"
-
-Name: "The Tavern's Open! (Part 3)"
-Description: "Play 3 games."
-XP Amount: "0"
-Quest Pool Type: "Unknown"
-Event Name: "-1"
-Reward Track Type: "None"
-
-Name: ""
-Description: "Play 10 cards from Festival of Legends."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 10 cards from TITANS."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 10 cards from Showdown in the Badlands."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 10 cards from Whizbang's Workshop."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 10 cards from Perils in Paradise."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play OR Destroy 10 Death Knight cards."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Forge OR Excavate 5 times."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 5 Finale cards."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: ""
-Description: "Play 5 Overheal OR Forged cards."
-XP Amount: "75"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: "Everyone, Get in Here!"
-Description: "Play 5 games of any mode."
-XP Amount: "400"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: "Everyone, Get in Here!!"
-Description: "Play 5 games of Traditional Hearthstone."
-XP Amount: "800"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
-Name: "Everyone, Get in Here!!!"
-Description: "Play 5 games of Ranked Standard Hearthstone."
-XP Amount: "1200"
-Quest Pool Type: "Event"
-Event Name: "Hearthstone Reunion"
-Reward Track Type: "Event"
-
+[
+    {
+        "ID": 947,
+        "name": "Hire A Travel Agent",
+        "description": "Play 15 cards from the Traveling Travel Agency Mini-Set.",
+        "quota": 15,
+        "xp_amount": 400,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 948,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 948,
+        "name": "Catch Your Zeppelin",
+        "description": "Play 30 Rush OR Windfury minions in Ranked Hearthstone.",
+        "quota": 30,
+        "xp_amount": 800,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 949,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 7,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 949,
+        "name": "Chill Out in Paradise",
+        "description": "Freeze 10 minions in Ranked Hearthstone.",
+        "quota": 10,
+        "xp_amount": 1200,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 14,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 950,
+        "name": "",
+        "description": "Play OR Destroy 10 Reborn minions in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 951,
+        "name": "",
+        "description": "Play OR Destroy 10 Taunt minions in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 952,
+        "name": "",
+        "description": "Play OR Destroy 10 Deathrattle minions in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 953,
+        "name": "",
+        "description": "Cast 10 Arcane OR Nature Spells in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 954,
+        "name": "",
+        "description": "Cast 10 Fire OR Frost Spells in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 955,
+        "name": "",
+        "description": "Cast 10 Holy OR Shadow Spells in Hearthstone.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 956,
+        "name": "",
+        "description": "Play 30 Death Knight OR Mage cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 957,
+        "name": "",
+        "description": "Play 30 Death Knight OR Shaman cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 958,
+        "name": "",
+        "description": "Play 30 Death Knight OR Warlock cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 959,
+        "name": "",
+        "description": "Play 30 Demon Hunter OR Priest cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 960,
+        "name": "",
+        "description": "Play 30 Demon Hunter OR Shaman cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 961,
+        "name": "",
+        "description": "Play 30 Druid OR Mage cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 962,
+        "name": "",
+        "description": "Play 30 Druid OR Warrior cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 963,
+        "name": "",
+        "description": "Play 30 Hunter OR Priest cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 964,
+        "name": "",
+        "description": "Play 30 Hunter OR Shaman cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 965,
+        "name": "",
+        "description": "Play 30 Hunter OR Warrior cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 966,
+        "name": "",
+        "description": "Play 30 Mage OR Paladin cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 967,
+        "name": "",
+        "description": "Play 30 Paladin OR Rogue cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 968,
+        "name": "",
+        "description": "Play 30 Rogue OR Warlock cards in Hearthstone.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 969,
+        "name": "",
+        "description": "Play 30 minions.",
+        "quota": 30,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 970,
+        "name": "",
+        "description": "Cast 25 spells.",
+        "quota": 25,
+        "xp_amount": 75,
+        "event_name": "A Travelmaster's Guide to Adventure!",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000574,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 971,
+        "name": "The Tavern's Open! (Part 1)",
+        "description": "Play 1 games.",
+        "quota": 1,
+        "xp_amount": 0,
+        "event_name": -1,
+        "quest_pool_type": "Unknown",
+        "reward_track_type": "None",
+        "icon": "",
+        "event": -1,
+        "next_in_chain_id": 972,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 2270
+    },
+    {
+        "ID": 972,
+        "name": "The Tavern's Open! (Part 2)",
+        "description": "Play 2 games.",
+        "quota": 2,
+        "xp_amount": 0,
+        "event_name": -1,
+        "quest_pool_type": "Unknown",
+        "reward_track_type": "None",
+        "icon": "",
+        "event": -1,
+        "next_in_chain_id": 973,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 2271
+    },
+    {
+        "ID": 973,
+        "name": "The Tavern's Open! (Part 3)",
+        "description": "Play 3 games.",
+        "quota": 3,
+        "xp_amount": 0,
+        "event_name": -1,
+        "quest_pool_type": "Unknown",
+        "reward_track_type": "None",
+        "icon": "",
+        "event": -1,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 2272
+    },
+    {
+        "ID": 974,
+        "name": "",
+        "description": "Play 10 cards from Festival of Legends.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 975,
+        "name": "",
+        "description": "Play 10 cards from TITANS.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 976,
+        "name": "",
+        "description": "Play 10 cards from Showdown in the Badlands.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 977,
+        "name": "",
+        "description": "Play 10 cards from Whizbang's Workshop.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 978,
+        "name": "",
+        "description": "Play 10 cards from Perils in Paradise.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 979,
+        "name": "",
+        "description": "Play OR Destroy 10 Death Knight cards.",
+        "quota": 10,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 986,
+        "name": "",
+        "description": "Forge OR Excavate 5 times.",
+        "quota": 5,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 987,
+        "name": "",
+        "description": "Play 5 Finale cards.",
+        "quota": 5,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 988,
+        "name": "",
+        "description": "Play 5 Overheal OR Forged cards.",
+        "quota": 5,
+        "xp_amount": 75,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 0,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 989,
+        "name": "Everyone, Get in Here!",
+        "description": "Play 5 games of any mode.",
+        "quota": 5,
+        "xp_amount": 400,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "Cards",
+        "event": 10000575,
+        "next_in_chain_id": 990,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 0,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 990,
+        "name": "Everyone, Get in Here!!",
+        "description": "Play 5 games of Traditional Hearthstone.",
+        "quota": 5,
+        "xp_amount": 800,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "Cards",
+        "event": 10000575,
+        "next_in_chain_id": 991,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 7,
+        "reward_list_id": 0
+    },
+    {
+        "ID": 991,
+        "name": "Everyone, Get in Here!!!",
+        "description": "Play 5 games of Ranked Standard Hearthstone.",
+        "quota": 5,
+        "xp_amount": 1200,
+        "event_name": "Hearthstone Reunion",
+        "quest_pool_type": "Event",
+        "reward_track_type": "Event",
+        "icon": "Cards",
+        "event": 10000575,
+        "next_in_chain_id": 0,
+        "can_abandon": 0,
+        "pool_guaranteed": 1,
+        "pool_instant_grant_day": 14,
+        "reward_list_id": 0
+    }
+]
