@@ -1,6 +1,6 @@
 [
     {
-        "ID": 1115,
+        "m_ID": 1115,
         "name": "Dream State",
         "description": "Play 250 cards from Into the Emerald Dream.",
         "quota": 250,
@@ -10,14 +10,14 @@
         "reward_track_type": "Event",
         "icon": "",
         "event": 10000526,
-        "next_in_chain_id": 1116,
+        "next_in_chain_m_ID": 1116,
         "can_abandon": 0,
         "pool_guaranteed": 1,
         "pool_instant_grant_day": 0,
-        "reward_list_id": 0
+        "reward_list_m_ID": 0
     },
     {
-        "ID": 1116,
+        "m_ID": 1116,
         "name": "By the Gods",
         "description": "Play 15 Wild Gods.",
         "quota": 15,
@@ -27,14 +27,14 @@
         "reward_track_type": "Event",
         "icon": "",
         "event": 10000526,
-        "next_in_chain_id": 1117,
+        "next_in_chain_m_ID": 1117,
         "can_abandon": 0,
         "pool_guaranteed": 1,
         "pool_instant_grant_day": 7,
-        "reward_list_id": 0
+        "reward_list_m_ID": 0
     },
     {
-        "ID": 1117,
+        "m_ID": 1117,
         "name": "Imbued Power",
         "description": "Use your Hero Power\n100 times in Ranked.\n<i>(Imbued counts 2x!)</i>",
         "quota": 100,
@@ -44,14 +44,14 @@
         "reward_track_type": "Event",
         "icon": "",
         "event": 10000526,
-        "next_in_chain_id": 0,
+        "next_in_chain_m_ID": 0,
         "can_abandon": 0,
         "pool_guaranteed": 1,
         "pool_instant_grant_day": 14,
-        "reward_list_id": 0
+        "reward_list_m_ID": 0
     },
     {
-        "ID": 1118,
+        "m_ID": 1118,
         "name": "",
         "description": "Imbue 10 times.\n<i>(Reroll for Nightmare Quest!)</i>",
         "quota": 10,
@@ -61,10 +61,10 @@
         "reward_track_type": "Event",
         "icon": "",
         "event": 10000526,
-        "next_in_chain_id": 0,
+        "next_in_chain_m_ID": 0,
         "can_abandon": 0,
         "pool_guaranteed": 1,
         "pool_instant_grant_day": 0,
-        "reward_list_id": 0
+        "reward_list_m_ID": 0
     }
 ]
